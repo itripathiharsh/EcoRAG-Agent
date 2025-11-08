@@ -1,0 +1,69 @@
+Renewable Energy Overview
+
+Renewable energy comes from natural sources that are constantly replenished. Unlike fossil fuels, renewable energy sources produce little to no greenhouse gas emissions.
+
+Main Types of Renewable Energy:
+
+1. SOLAR ENERGY
+- Converts sunlight into electricity using photovoltaic panels
+- Can be deployed at utility-scale or distributed on rooftops
+- Costs have decreased by over 85% in the past decade
+- Works best in sunny regions but effective in most climates
+
+2. WIND ENERGY
+- Uses wind turbines to generate electricity
+- Onshore and offshore wind farms
+- Among the cheapest energy sources in many regions
+- Can be combined with solar for consistent output
+
+3. HYDROPOWER
+- Generates electricity from flowing water
+- Includes dams, run-of-river, and pumped storage
+- Provides reliable baseload power
+- Long operational lifespan
+
+4. GEOTHERMAL ENERGY
+- Uses heat from the Earth's interior
+- Available 24/7 regardless of weather
+- Low emissions and small land footprint
+- Limited to geologically active areas
+
+5. BIOMASS ENERGY
+- Converts organic material into energy
+- Includes wood, agricultural waste, and biofuels
+- Can provide heating, electricity, and transportation fuel
+- Must be sustainably managed to be carbon-neutral
+
+Key Benefits:
+
+ENVIRONMENTAL
+- Reduces greenhouse gas emissions
+- Improves air quality and public health
+- Conserves water resources
+- Protects ecosystems
+
+ECONOMIC
+- Creates jobs in manufacturing and installation
+- Reduces energy import dependence
+- Stabilizes long-term energy costs
+- Drives technological innovation
+
+SOCIAL
+- Increases energy access in remote areas
+- Improves energy security
+- Supports community development
+- Promotes energy independence
+
+Current Trends:
+- Rapid cost reductions making renewables competitive
+- Growing corporate adoption through Power Purchase Agreements
+- Advances in energy storage technology
+- Integration with smart grid systems
+- Emerging technologies like floating offshore wind and enhanced geothermal
+
+Challenges:
+- Intermittency and grid integration
+- Energy storage requirements
+- Land use considerations
+- Initial investment costs
+- Regulatory and policy frameworks
