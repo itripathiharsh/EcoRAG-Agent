@@ -17,9 +17,6 @@
 Try it now:
 👉 **[EcoRAG Agent on Hugging Face Spaces](https://huggingface.co/spaces/The-Arthur-Morgan/EcoRAG-Agent)**
 
-![Demo Screenshot](https://github.com/itripathiharsh/EcoRAG-Agent/raw/main/assets/demo-screenshot.png)
-
-> *(Replace with an actual screenshot for best impact)*
 
 ---
 
