@@ -89,13 +89,10 @@ python app.py
 ```env
 # Required: At least one key (Groq or Gemini)
 GROQ_API_KEY=your_groq_key
-GEMINI_API_KEY=your_gemini_key
 
 # Optional: Backup keys for failover
 GROQ_API_KEY_2=backup_groq_key
 GROQ_API_KEY_3=third_groq_key
-GEMINI_API_KEY_2=backup_gemini_key
-GEMINI_API_KEY_3=third_gemini_key
 ```
 
 ---
